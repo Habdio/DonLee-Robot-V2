@@ -1,5 +1,5 @@
 <p align="center">
-<img "https://telegra.ph/file/7b700e7f4bd58504d93e7.jpg" alt="DonLeeLogo">
+<img "https://telegra.ph/file/7b700e7f4bd58504d93e7.jpg" 
 </p>
 
 <p align="center">
