@@ -47,11 +47,7 @@
 
 <p align="center">
 ↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ↩️
-</p>
-
-<p align="center">
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Habdio/DonLee-Robot-V2)
-</p>
 
 ----
 
