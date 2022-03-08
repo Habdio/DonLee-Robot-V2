@@ -1,5 +1,5 @@
 <p align="center">
-<img "https://telegra.ph/file/7b700e7f4bd58504d93e7.jpg" 
+<img "https://telegra.ph/file/7b700e7f4bd58504d93e7.jpg" alt="Cyber_Datk_Robot_logo">
 </p>
 
 <p align="center">
